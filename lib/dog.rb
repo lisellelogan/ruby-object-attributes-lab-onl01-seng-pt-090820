@@ -12,7 +12,7 @@ class Dog
     @breed = breed
   end
 
-  def bark
+  def breed
     @breed
   end
 
